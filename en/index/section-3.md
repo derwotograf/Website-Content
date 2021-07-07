@@ -21,3 +21,11 @@ It brings injustices done to vulnerable communities, and the earth, to the foref
 **Intersectional environmentalism advocates for justice for people and the planet.**
 
 <div markdown=1 class="text-white-50 mt-0 font-weight-light">Explanation borrowed from [Leah Thomas](https://www.instagram.com/greengirlleah/) with her permission.</div>
+
+<hr class="divider light my-4">
+
+##### The World is diverse & colourful and one half are women
+Overall however, films and television have not been reflecting this reality. Films and programmes, fictional and non-fictional, are characterized by a strong male majority onscreen. Whether it’s talk shows, sports or feature films, the focus is mostly on men: men talk and women listen, men act and women look nice.
+NEROPA (TM) was developed by **Belinde Ruth Stieve** as a method to **increase the proportion of women and encourage diversity in film projects onscreen and to sensitize and raise awareness** among those involved.
+
+<div markdown=1 class="text-white-50 mt-0 font-weight-light">Read more about [NEROPA (TM)](http://neropa.stieve.com/en/neropa-start/). Taken  with Belinde Ruth's friendly permission.</div>
