@@ -24,8 +24,8 @@ ReplaceHeading: true
         <hr class="divider" id="main_divider">
       </div>
       <div class="col-lg-9 align-self-start">
-        <p class="text-white-85 font-weight-light mb-4" style="font-size:1.24rem" id="main_text">Unser Ziel ist es, die Umweltauswirkungen der globalen Filmindustrie zu minimieren. Wir konzentrieren uns in erster Linie auf die Sensibilisierung und auf die Förderung des Wissens- und Erfahrungsaustauschs.</p>
-        <a class="btn btn-primary btn-xl js-scroll-trigger " href="#statement">Lies unsere Erklärung</a>
+        <p class="text-white-85 font-weight-light mb-4" style="font-size:1.24rem" id="main_text">Unser Ziel ist es, die Umweltauswirkungen der globalen Filmindustrie zu minimieren. Wir konzentrieren uns in erster Linie auf die Sensibilisierung und auf die Förderung des Wissens- und Erfahrungsaustausches.</p>
+        <a class="btn btn-primary btn-xl js-scroll-trigger " href="#statement">Lies unser Statement</a>
       </div>
     </div>
   </div>
